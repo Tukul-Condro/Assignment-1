@@ -51,7 +51,7 @@ main{
 /* wev-dev style */
 .web-dev{
   margin: 74px 150px 88px;
-  height: 1395px;
+  height: 1750px;
   border-radius: 5px;
 }
 .wrapper{
@@ -63,11 +63,29 @@ main{
 .section-items1{
   display: flex;
   justify-content: space-between;
+  background-color: #FFFFFF;
+  margin-bottom: 32px;
+  border-radius: 5px;
+  padding: 48px;
 }
 .section-title1{
-
 }
-
+.btn-primary2{
+  font-weight: 600;
+  font-size: 20px;
+  background-color:#eeeeee ;
+  color: #0D1321;
+  width: 206px;
+  height: 66px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+.section-item{
+  margin: 10px 373px 0 0;
+}
+.sec-it-2n{
+  margin: 10px 100px 10px 32px;
+}
 
 
 
