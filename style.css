@@ -97,20 +97,42 @@ margin: 0 150px 88px 150px;
 }
 .sec-2-sub-frm{
  border: 1px solid #a7a9ad;
- border-radius: 5px;
+ border-radius: 15px;
  height: 615px;
 }
 iframe{
   margin: 35px;
   width: 95%;
   height: 550px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
-
-
-
-
-
+/* my current target style */
+.wrapper2{
+  margin: 170px 170px 50px 170px ;
+}
+.cards{
+  display: inline-flex;
+  gap:24px;
+  justify-content: space-around;
+}
+.card{
+  padding:40px;
+  border-radius: 8px;
+}
+ .c1{
+  background-color:#FFF6F4 ;
+ }
+.c2{
+background-color: #F2F6FE;
+}
+.c3{
+background-color: #FFFDF2;
+}
+.card > a{
+  font-weight: 800;
+  font-size: 20px;
+  color: #0D1321;
+}
 
 
 
