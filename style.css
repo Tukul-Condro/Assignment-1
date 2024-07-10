@@ -87,5 +87,35 @@ main{
   margin: 10px 100px 10px 32px;
 }
 
+/* My Inspiration style */
+.sec-2{
+  height: 775px;
+}
+.sec-2-sub{
+text-align: center;
+margin: 0 150px 88px 150px;
+}
+.sec-2-sub-frm{
+ border: 1px solid #a7a9ad;
+ border-radius: 5px;
+ height: 615px;
+}
+iframe{
+  margin: 35px;
+  width: 95%;
+  height: 550px;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
